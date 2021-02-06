@@ -3,8 +3,9 @@
 
 [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xxx-brightgreen.svg)](https://kotlinlang.org/)  [![coroutines](https://img.shields.io/badge/coroutines-asynchronous-red.svg)](https://kotlinlang.org/docs/reference/coroutines-overview.html)   [![Espresso](https://img.shields.io/badge/Espresso-testing-lightgrey.svg)](https://developer.android.com/training/testing/espresso/)  [![Dagger Hilt](https://img.shields.io/badge/Dagger-2.xx-orange.svg)](https://dagger.dev/hilt/)  [![Kotlin-Android-Extensions ](https://img.shields.io/badge/Kotlin--Android--Extensions-plugin-red.svg)](https://kotlinlang.org/docs/tutorials/android-plugin.html) [![MVVM ](https://img.shields.io/badge/Clean--Code-MVVM-brightgreen.svg)](https://github.com/googlesamples/android-architecture)
 
+Clean-Architecture by uncle pop (Robert Cecil Martin)  this project is adoption for clean architecture in android
+
 Model-View-ViewModel (ie MVVM) is a template of a client application architecture, proposed by John Gossman as an alternative to MVC and MVP patterns when using Data Binding technology. Its concept is to separate data presentation logic from business logic by moving it into particular class for a clear distinction.
-You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Architecture)
 
 **How to build the project:**
 - You'll be using the most viewed section of this API.
