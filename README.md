@@ -96,7 +96,7 @@ They're different tools with different strengths. Like a tank and a cannon, they
 >     implementation("com.squareup.okhttp3:okhttp:4.7.2")
 
 
- - Make Retrofit Calls.
+ - Make Retrofit Calls. NOTE: period could be 1 or 7 or 30 according to new york times api  
 
 
 ```kotlin
