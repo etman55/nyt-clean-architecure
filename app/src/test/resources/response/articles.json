@@ -1,0 +1,1255 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/843f7250-9838-5c56-af37-5ca686d7f5a6",
+      "url": "https://www.nytimes.com/2021/01/31/us/trump-election-lie.html",
+      "id": 100000007563821,
+      "asset_id": 100000007563821,
+      "source": "New York Times",
+      "published_date": "2021-01-31",
+      "updated": "2021-02-03 10:27:47",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Rumors and Misinformation;Right-Wing Extremism and Alt-Right;Voter Fraud (Election Fraud);Suits and Litigation (Civil);United States Politics and Government;Voting Machines;Attorneys General;Trump, Donald J;Giuliani, Rudolph W;McConnell, Mitch;Clark, Justin Reilly (1975- );Montgomery, Dennis Lee (1953- );McInerney, Thomas G;Gosar, Paul (1958- );Barr, William P;Kobach, Kris W;Paxton, Ken;Kremer, Amy;Kremer, Kylie Jane;Lindell, Mike;Cipollone, Pat A;Women for America First;Dominion Voting Systems Corp",
+      "column": null,
+      "byline": "By Jim Rutenberg, Jo Becker, Eric Lipton, Maggie Haberman, Jonathan Martin, Matthew Rosenberg and Michael S. Schmidt",
+      "type": "Article",
+      "title": "77 Days: Trump’s Campaign to Subvert the Election",
+      "abstract": "Hours after the United States voted, the president declared the election a fraud — a lie that unleashed a movement that would shatter democratic norms and upend the peaceful transfer of power.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Rumors and Misinformation",
+        "Right-Wing Extremism and Alt-Right",
+        "Voter Fraud (Election Fraud)",
+        "Suits and Litigation (Civil)",
+        "United States Politics and Government",
+        "Voting Machines",
+        "Attorneys General"
+      ],
+      "org_facet": [
+        "Women for America First",
+        "Dominion Voting Systems Corp"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Giuliani, Rudolph W",
+        "McConnell, Mitch",
+        "Clark, Justin Reilly (1975- )",
+        "Montgomery, Dennis Lee (1953- )",
+        "McInerney, Thomas G",
+        "Gosar, Paul (1958- )",
+        "Barr, William P",
+        "Kobach, Kris W",
+        "Paxton, Ken",
+        "Kremer, Amy",
+        "Kremer, Kylie Jane",
+        "Lindell, Mike",
+        "Cipollone, Pat A"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/01trump-lie-promo/01trump-lie-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/01trump-lie-promo/01trump-lie-02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/01trump-lie-promo/01trump-lie-02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/00ddf6d8-ea5a-51ab-bbc9-996dfc438065",
+      "url": "https://www.nytimes.com/2021/01/31/science/andrew-brooks-dead.html",
+      "id": 100000007576275,
+      "asset_id": 100000007576275,
+      "source": "New York Times",
+      "published_date": "2021-01-31",
+      "updated": "2021-02-03 00:51:45",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Deaths (Obituaries);Coronavirus (2019-nCoV);Tests (Medical);Brooks, Andrew (1969-2012);Rutgers, The State University of New Jersey",
+      "column": null,
+      "byline": "By Clay Risen",
+      "type": "Article",
+      "title": "Andrew Brooks, Who Developed a Coronavirus Spit Test, Dies at 51",
+      "abstract": "His breakthrough helped millions get their results quickly in the early days of the pandemic, when tests were scarce and lines were long.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Coronavirus (2019-nCoV)",
+        "Tests (Medical)"
+      ],
+      "org_facet": [
+        "Rutgers, The State University of New Jersey"
+      ],
+      "per_facet": [
+        "Brooks, Andrew (1969-2012)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrew Brooks in April 2020 at his lab at Rutgers. He made worldwide news after the Covid-19 saliva test he developed received emergency approval from the Food and Drug Administration.",
+          "copyright": "Nick Romanenko",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/03/obituaries/29Brooks1/29Brooks1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/03/obituaries/29Brooks1/29Brooks1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/03/obituaries/29Brooks1/29Brooks1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7952c752-88a9-53db-b1fa-cafd45fa815b",
+      "url": "https://www.nytimes.com/2021/02/03/realestate/luxury-high-rise-432-park.html",
+      "id": 100000007575722,
+      "asset_id": 100000007575722,
+      "source": "New York Times",
+      "published_date": "2021-02-03",
+      "updated": "2021-02-05 09:39:09",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Building (Construction);Quarantine (Life and Culture);Condominiums;High Net Worth Individuals;Elevators and Escalators;432 Park Avenue (Manhattan, NY, Restaurant);CIM Group;Douglas Elliman Real Estate;Macklowe Properties;Billionaires' Row (Manhattan, NY);New York City",
+      "column": null,
+      "byline": "By Stefanos Chen",
+      "type": "Article",
+      "title": "The Downside to Life in a Supertall Tower: Leaks, Creaks, Breaks",
+      "abstract": "432 Park, one of the wealthiest addresses in the world, faces some significant design problems, and other luxury high-rises may share its fate.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Building (Construction)",
+        "Quarantine (Life and Culture)",
+        "Condominiums",
+        "High Net Worth Individuals",
+        "Elevators and Escalators"
+      ],
+      "org_facet": [
+        "432 Park Avenue (Manhattan, NY, Restaurant)",
+        "CIM Group",
+        "Douglas Elliman Real Estate",
+        "Macklowe Properties"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Billionaires' Row (Manhattan, NY)",
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Resident complaints at 432 Park, once the tallest residential building in the world, and a symbol of the luxury condo boom of the last decade, are revealing strife inside one of the city’s most secretive and exclusive towers.",
+          "copyright": "Karsten Moran for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/04/realestate/03ticket2/03ticket2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/04/realestate/03ticket2/merlin_154802808_55edfd9c-7086-4225-9690-8ccf7e5fa85a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/04/realestate/03ticket2/merlin_154802808_55edfd9c-7086-4225-9690-8ccf7e5fa85a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1bed10f0-691a-53f9-930a-49cf94110d13",
+      "url": "https://www.nytimes.com/2021/01/29/health/Covid-vaccine-explainer.html",
+      "id": 100000007577564,
+      "asset_id": 100000007577564,
+      "source": "New York Times",
+      "published_date": "2021-01-29",
+      "updated": "2021-02-03 18:27:49",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Content Type: Service;Coronavirus Risks and Safety Concerns;Clinical Trials;your-feed-healthcare;Johnson & Johnson;Moderna Inc;Pfizer Inc;AstraZeneca PLC;Novavax Inc",
+      "column": null,
+      "byline": "By Denise Grady",
+      "type": "Article",
+      "title": "Which Covid Vaccine Should You Get? Experts Cite the Effect Against Severe Disease",
+      "abstract": "Infectious disease doctors say getting a shot of the J&J vaccine, which has a lower efficacy against the virus than other vaccines, would still be well worthwhile.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Content Type: Service",
+        "Coronavirus Risks and Safety Concerns",
+        "Clinical Trials",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Johnson & Johnson",
+        "Moderna Inc",
+        "Pfizer Inc",
+        "AstraZeneca PLC",
+        "Novavax Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Covid vaccinations in Santa Barbara County, Calif., this week.",
+          "copyright": "Daniel Dreifuss for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/04/science/2VIRUS-VACCINE-EXPLAINER/2VIRUS-VACCINE-EXPLAINER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/04/science/2VIRUS-VACCINE-EXPLAINER/2VIRUS-VACCINE-EXPLAINER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/04/science/2VIRUS-VACCINE-EXPLAINER/2VIRUS-VACCINE-EXPLAINER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cfef6e96-4554-598b-8278-99e3b40d16cf",
+      "url": "https://www.nytimes.com/2021/01/30/business/gamestop-stock-profit.html",
+      "id": 100000007578853,
+      "asset_id": 100000007578853,
+      "source": "New York Times",
+      "published_date": "2021-01-30",
+      "updated": "2021-01-31 14:18:27",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Stocks and Bonds;Personal Finances;GameStop Corporation",
+      "column": null,
+      "byline": "By Christina Morales",
+      "type": "Article",
+      "title": "A 10-Year-Old GameStop Investor Cashed In. His Return? Over 5,000%.",
+      "abstract": "Jaydyn Carr of San Antonio made $3,200 on shares from GameStop this week that his mother bought him in 2019 for about $60.",
+      "des_facet": [
+        "Stocks and Bonds",
+        "Personal Finances"
+      ],
+      "org_facet": [
+        "GameStop Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jaydyn Carr with a certificate his mother, Nina Carr, made to commemorate a Kwanzaa gift of 10 shares of GameStop.",
+          "copyright": "Nina Carr",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/multimedia/29xp-gamestop-kid/merlin_182985288_ddab80c5-066e-4bca-931b-fb2a9ae27742-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/multimedia/29xp-gamestop-kid/29xp-gamestop-kid-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/multimedia/29xp-gamestop-kid/29xp-gamestop-kid-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c43a650b-cb91-5915-acc1-0f3fdaae8baf",
+      "url": "https://www.nytimes.com/2021/01/29/health/covid-vaccine-johnson-and-johnson-variants.html",
+      "id": 100000007576531,
+      "asset_id": 100000007576531,
+      "source": "New York Times",
+      "published_date": "2021-01-29",
+      "updated": "2021-01-30 00:27:58",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Clinical Trials;Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-healthcare;Johnson & Johnson",
+      "column": null,
+      "byline": "By Carl Zimmer, Noah Weiland and Sharon LaFraniere",
+      "type": "Article",
+      "title": "Johnson & Johnson’s Vaccine Offers Strong Protection but Fuels Concern About Variants",
+      "abstract": "The vaccine’s efficacy rate dropped from 72 percent in the United States to just 57 percent in South Africa, where a highly contagious variant is driving most cases.",
+      "des_facet": [
+        "Clinical Trials",
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Johnson & Johnson"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A dose of Johnson &amp; Johnson’s vaccine candidate was prepared at the Rocky Mountain Regional VA Medical Center in Aurora, Colo., last month.",
+          "copyright": "Michael Ciaglo/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/29/science/29VIRUS-JNJ1/29VIRUS-JNJ1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/29/science/29VIRUS-JNJ1/29VIRUS-JNJ1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/29/science/29VIRUS-JNJ1/29VIRUS-JNJ1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fd09f377-0c2a-585f-b733-da1c0428fe80",
+      "url": "https://www.nytimes.com/2021/01/30/arts/music/sophie-dead.html",
+      "id": 100000007579241,
+      "asset_id": 100000007579241,
+      "source": "New York Times",
+      "published_date": "2021-01-30",
+      "updated": "2021-01-31 23:45:58",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Pop and Rock Music;Sophie (Musician)",
+      "column": null,
+      "byline": "By Jon Pareles",
+      "type": "Article",
+      "title": "Sophie, Who Pushed the Boundaries of Pop Music, Dies at 34",
+      "abstract": "As a producer and performer, Sophie distilled speed, noise, melody and clarity, working simultaneously at the experimental fringes of dance music and the center of pop.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sophie (Musician)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sophie onstage at Coachella in 2019. Her 2018 album, “Oil of Every Pearl’s Un-Insides,” was nominated for a Grammy for best dance/electronic album.",
+          "copyright": "Rich Fury/Getty Images for Coachella",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/30/arts/30sophie-2/30sophie-2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/30/arts/30sophie-2/30sophie-2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/30/arts/30sophie-2/30sophie-2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c64336de-a7e4-5c04-b8fd-d3a0db62a7f8",
+      "url": "https://www.nytimes.com/2021/01/31/us/politics/john-weaver-lincoln-project-harassment.html",
+      "id": 100000007554850,
+      "asset_id": 100000007554850,
+      "source": "New York Times",
+      "published_date": "2021-01-31",
+      "updated": "2021-02-01 00:34:30",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Sexual Harassment;Weaver, John (1959- );Lincoln Project",
+      "column": null,
+      "byline": "By Maggie Astor and Danny Hakim",
+      "type": "Article",
+      "title": "21 Men Accuse Lincoln Project Co-Founder of Online Harassment",
+      "abstract": "John Weaver, a longtime G.O.P. operative who advised John McCain and John Kasich, made sexual overtures to young men, sometimes offering to help them get work in politics.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Sexual Harassment"
+      ],
+      "org_facet": [
+        "Lincoln Project"
+      ],
+      "per_facet": [
+        "Weaver, John (1959- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Weaver in 2016, when he worked on John Kasich’s campaign for the Republican presidential nomination.",
+          "copyright": "Charles Krupa/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/27/us/politics/00weaver2/00weaver2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/27/us/politics/00weaver2/00weaver2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/27/us/politics/00weaver2/00weaver2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ea26e528-0b60-560e-8e2f-d35bd6e5f089",
+      "url": "https://www.nytimes.com/2021/02/02/us/fbi-shooting-sunrise-florida.html",
+      "id": 100000007583188,
+      "asset_id": 100000007583188,
+      "source": "New York Times",
+      "published_date": "2021-02-02",
+      "updated": "2021-02-03 18:41:48",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Attacks on Police;Murders, Attempted Murders and Homicides;Alfin, Daniel (d 2021);Schwartzenberger, Laura (d 2021);Federal Bureau of Investigation;Sunrise (Fla)",
+      "column": null,
+      "byline": "By Patricia Mazzei, Adam Goldman, Johnny Diaz and Christina Morales",
+      "type": "Article",
+      "title": "2 F.B.I. Agents Killed in Shooting in Florida",
+      "abstract": "Three other agents were injured in a shooting that occurred as agents were executing a search warrant in Sunrise, west of Fort Lauderdale. The man being investigated was found dead.",
+      "des_facet": [
+        "Attacks on Police",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "Alfin, Daniel (d 2021)",
+        "Schwartzenberger, Laura (d 2021)"
+      ],
+      "geo_facet": [
+        "Sunrise (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officers near the scene of a shooting in Sunrise, Fla., on Tuesday. The encounter occurred as F.B.I. agents were serving a search warrant, the authorities said.",
+          "copyright": "Marta Lavandier/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/us/02fbi-shooting/02fbi-shooting-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/us/02fbi-shooting/02fbi-shooting-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/us/02fbi-shooting/02fbi-shooting-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3ddfcffb-9962-585e-ad92-8abf919ed199",
+      "url": "https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html",
+      "id": 100000007385359,
+      "asset_id": 100000007385359,
+      "source": "New York Times",
+      "published_date": "2021-01-30",
+      "updated": "2021-02-02 18:04:08",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Cyberharassment;Libel and Slander;Rumors and Misinformation;Suits and Litigation (Civil);Computers and the Internet;Atas, Nadire;Babcock, Guy;Ripoff Report (Web Site);Google Inc;Pinterest;Canada;England;United States",
+      "column": null,
+      "byline": "By Kashmir Hill",
+      "type": "Article",
+      "title": "A Vast Web of Vengeance",
+      "abstract": "Outrageous lies destroyed Guy Babcock’s online reputation. When he went hunting for their source, what he discovered was worse than he could have imagined.",
+      "des_facet": [
+        "Cyberharassment",
+        "Libel and Slander",
+        "Rumors and Misinformation",
+        "Suits and Litigation (Civil)",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Ripoff Report (Web Site)",
+        "Google Inc",
+        "Pinterest"
+      ],
+      "per_facet": [
+        "Atas, Nadire",
+        "Babcock, Guy"
+      ],
+      "geo_facet": [
+        "Canada",
+        "England",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Guy Babcock discovered the power of a lone person to destroy countless reputations.",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/business/31Grudge-p1/31Grudge-p1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/business/31Grudge-p1/31Grudge-p1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/business/31Grudge-p1/31Grudge-p1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/76576899-898e-5f3f-ad6f-236d708df60c",
+      "url": "https://www.nytimes.com/2021/02/01/world/australia/perth-lockdown.html",
+      "id": 100000007580556,
+      "asset_id": 100000007580556,
+      "source": "New York Times",
+      "published_date": "2021-02-01",
+      "updated": "2021-02-02 10:15:40",
+      "section": "World",
+      "subsection": "Australia",
+      "nytdsection": "world",
+      "adx_keywords": "Quarantines;Contact Tracing (Public Health);Coronavirus (2019-nCoV);Disease Rates;Australia;Perth (Australia)",
+      "column": null,
+      "byline": "By Damien Cave",
+      "type": "Article",
+      "title": "One Case, Total Lockdown: Australia’s Lessons for a Pandemic World",
+      "abstract": "The country’s short, sharp responses have repeatedly subdued the virus and allowed a return to near normalcy. Now its model is being applied to Perth, its fourth-largest city.",
+      "des_facet": [
+        "Quarantines",
+        "Contact Tracing (Public Health)",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Australia",
+        "Perth (Australia)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Perth, Australia, on Monday, the first full day of its lockdown.",
+          "copyright": "Richard Wainwright/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/world/01oz-virus-1/01oz-virus-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/world/01oz-virus-1/01oz-virus-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/world/01oz-virus-1/01oz-virus-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8c40e49b-d406-5707-9abf-93065abe5edf",
+      "url": "https://www.nytimes.com/2021/02/01/us/politics/mitch-mcconnell-marjorie-taylor-greene.html",
+      "id": 100000007582523,
+      "asset_id": 100000007582523,
+      "source": "New York Times",
+      "published_date": "2021-02-01",
+      "updated": "2021-02-05 19:35:25",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Conspiracy Theories;Greene, Marjorie Taylor (1974- );McConnell, Mitch;Trump, Donald J;Republican Party;House of Representatives",
+      "column": null,
+      "byline": "By Catie Edmondson",
+      "type": "Article",
+      "title": "McConnell says ‘loony lies’ spread by Marjorie Taylor Greene are a ‘cancer’ on G.O.P.",
+      "abstract": "Senator Mitch McConnell issued a scathing rebuke on Monday saying that the “loony lies and conspiracy theories” embraced by Ms. Greene amounted to a “cancer” on the Republican Party.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Greene, Marjorie Taylor (1974- )",
+        "McConnell, Mitch",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Mitch McConnell of Kentucky, the minority leader, this week offered strong words about Representative Marjorie Taylor Greene, Republican of Georgia, without mentioning her by name.",
+          "copyright": "Oliver Contreras for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/politics/01transition-brief-mcconnell/01transition-brief-mcconnell-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/politics/01transition-brief-mcconnell/merlin_182897220_e5365f32-a58d-46c8-9d52-bed4baa44a0f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/politics/01transition-brief-mcconnell/merlin_182897220_e5365f32-a58d-46c8-9d52-bed4baa44a0f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ad8d3d9e-c1a2-5935-a75d-8fe523beb2bb",
+      "url": "https://www.nytimes.com/2021/02/01/us/politics/biden-approval-rating-trump.html",
+      "id": 100000007580304,
+      "asset_id": 100000007580304,
+      "source": "New York Times",
+      "published_date": "2021-02-01",
+      "updated": "2021-02-03 10:27:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Polls and Public Opinion;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Giovanni Russonello",
+      "type": "Article",
+      "title": "Biden’s Approval Rating Is Trump’s in Reverse",
+      "abstract": "Support from a slim majority might be all President Biden can expect — and maybe it’s all he needs.",
+      "des_facet": [
+        "Polls and Public Opinion",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden had a 54 percent approval rating in a Monmouth University poll released last week, a relatively low mark compared with his predecessors in recent decades — except Donald Trump.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/politics/01-onpolitics-am-newsletter-biden/01-onpolitics-am-newsletter-biden-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/politics/01-onpolitics-am-newsletter-biden/01-onpolitics-am-newsletter-biden-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/politics/01-onpolitics-am-newsletter-biden/01-onpolitics-am-newsletter-biden-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eef67358-0742-5549-acb5-4539d9d1f791",
+      "url": "https://www.nytimes.com/2021/02/01/business/media/jamie-tarses-dead.html",
+      "id": 100000007508991,
+      "asset_id": 100000007508991,
+      "source": "New York Times",
+      "published_date": "2021-02-01",
+      "updated": "2021-02-02 00:21:46",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "Television;Women and Girls;Deaths (Obituaries);Tarses, Jamie;ABC Inc;National Broadcasting Co",
+      "column": null,
+      "byline": "By Brooks Barnes",
+      "type": "Article",
+      "title": "Jamie Tarses, Executive in a Hollywood Rise-and-Fall Story, Dies at 56",
+      "abstract": "She broke barriers as a woman in the TV industry and turned out hit after hit, only to see it all fizzle under a very public spotlight.",
+      "des_facet": [
+        "Television",
+        "Women and Girls",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "ABC Inc",
+        "National Broadcasting Co"
+      ],
+      "per_facet": [
+        "Tarses, Jamie"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jamie Tarses in 1996. At 32 she was named president of entertainment at ABC, the first woman ever to serve as a network&rsquo;s top programmer.",
+          "copyright": "Steve Goldstein",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/obituaries/00Tarses2-sub/00Tarses2-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/obituaries/00Tarses2-sub/00Tarses2-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/obituaries/00Tarses2-sub/00Tarses2-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c15fab3f-aad7-5165-aae2-d43886568f87",
+      "url": "https://www.nytimes.com/2021/02/01/arts/evan-rachel-wood-marilyn-manson.html",
+      "id": 100000007581090,
+      "asset_id": 100000007581090,
+      "source": "New York Times",
+      "published_date": "2021-02-01",
+      "updated": "2021-02-02 09:51:34",
+      "section": "Arts",
+      "subsection": "",
+      "nytdsection": "arts",
+      "adx_keywords": "Sexual Harassment;#MeToo Movement;Domestic Violence;Pop and Rock Music;Actors and Actresses;Women and Girls;Law and Legislation;Wood, Evan Rachel;Manson, Marilyn;Loma Vista Recordings;California",
+      "column": null,
+      "byline": "By Jenny Gross and Melena Ryzik",
+      "type": "Article",
+      "title": "Evan Rachel Wood Accuses Marilyn Manson of Abuse",
+      "abstract": "“He started grooming me when I was a teenager and horrifically abused me for years,” Ms. Wood, said on Instagram. Hours later Mr. Manson’s label dropped him.",
+      "des_facet": [
+        "Sexual Harassment",
+        "#MeToo Movement",
+        "Domestic Violence",
+        "Pop and Rock Music",
+        "Actors and Actresses",
+        "Women and Girls",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Loma Vista Recordings"
+      ],
+      "per_facet": [
+        "Wood, Evan Rachel",
+        "Manson, Marilyn"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The rock musician Marilyn Manson last year. Mr. Manson and the actress Evan Rachel Wood publicly became a couple in 2007, when she was 19 and he was 38.",
+          "copyright": "Randy Shropshire/Getty Images for The Art of Elysium",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/multimedia/1xp-marilynmanson-image1/1xp-marilynmanson-image1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/multimedia/1xp-marilynmanson-image1/1xp-marilynmanson-image1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/multimedia/1xp-marilynmanson-image1/1xp-marilynmanson-image1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fccf0478-ddfd-5f64-a3b0-125ec060e926",
+      "url": "https://www.nytimes.com/2021/02/02/technology/jeff-bezos-amazon.html",
+      "id": 100000007584061,
+      "asset_id": 100000007584061,
+      "source": "New York Times",
+      "published_date": "2021-02-02",
+      "updated": "2021-02-03 18:53:55",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Appointments and Executive Changes;E-Commerce;Bezos, Jeffrey P;Jassy, Andrew R;Amazon.com Inc",
+      "column": null,
+      "byline": "By Karen Weise",
+      "type": "Article",
+      "title": "Jeff Bezos to Step Down as Amazon C.E.O.",
+      "abstract": "Andy Jassy, the chief of Amazon’s cloud computing division, will become chief executive, while Mr. Bezos, the company’s founder, will become executive chairman.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "E-Commerce"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P",
+        "Jassy, Andrew R"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Right now I see Amazon at its most inventive ever, making it an optimal time for this transition,” Jeff Bezos said on Tuesday.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/business/02amazon/02amazon-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/business/02amazon/merlin_154625406_1a3a9505-61ab-49bd-9fdb-36f0e1ced4fb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/02/business/02amazon/merlin_154625406_1a3a9505-61ab-49bd-9fdb-36f0e1ced4fb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bec76f6e-5729-5bc0-84de-0f1bb491eba5",
+      "url": "https://www.nytimes.com/2021/02/02/opinion/sunday/democrats-economy.html",
+      "id": 100000007578131,
+      "asset_id": 100000007578131,
+      "source": "New York Times",
+      "published_date": "2021-02-02",
+      "updated": "2021-02-06 00:54:09",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Economy;United States Politics and Government;Federal Taxes (US);Presidents and Presidency (US);Labor and Jobs;Gross Domestic Product;Blinder, Alan S;Watson, Mark W;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By David Leonhardt and Yaryna Serkez",
+      "type": "Article",
+      "title": "Why Are Republican Presidents So Bad for the Economy?",
+      "abstract": "G.D.P., jobs and other indicators have all risen faster under Democrats for nearly the past century.",
+      "des_facet": [
+        "United States Economy",
+        "United States Politics and Government",
+        "Federal Taxes (US)",
+        "Presidents and Presidency (US)",
+        "Labor and Jobs",
+        "Gross Domestic Product"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Blinder, Alan S",
+        "Watson, Mark W"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/red-blue-economy-promos-promo-1612212419020/red-blue-economy-promos-promo-1612212419020-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/red-blue-economy-promos-promo-1612212419020/red-blue-economy-promos-promo-1612212419020-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/01/us/red-blue-economy-promos-promo-1612212419020/red-blue-economy-promos-promo-1612212419020-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/636160b3-9d54-5a68-abb3-dfa2a4bea485",
+      "url": "https://www.nytimes.com/2021/01/28/us/capitol-riot-woman-trampled.html",
+      "id": 100000007576072,
+      "asset_id": 100000007576072,
+      "source": "New York Times",
+      "published_date": "2021-01-28",
+      "updated": "2021-01-31 11:43:03",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);Boyland, Rosanne (1986- 2021);Washington (DC)",
+      "column": null,
+      "byline": "By Evan Hill and Arielle Ray",
+      "type": "Article",
+      "title": "Body Camera Footage Shows Capitol Rioters Trampling Over Woman",
+      "abstract": "Video obtained by The Times provides a police officer’s view of the deadly battle to defend a key entryway from the surging mob.",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Boyland, Rosanne (1986- 2021)"
+      ],
+      "geo_facet": [
+        "Washington (DC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rioters trampled Rosanne Boyland, 34, as they attacked police officers on Jan. 6. Federal prosecutors have accused Michael Joseph Foy of Michigan of assaulting officers with a hockey stick.",
+          "copyright": "The New York Times/U.S. Attorney’s Office for the Eastern District of Michigan",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/28/video/newnewtop-28vid-boyland-update/newnewtop-28vid-boyland-update-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/28/video/newnewtop-28vid-boyland-update/newnewtop-28vid-boyland-update-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/28/video/newnewtop-28vid-boyland-update/newnewtop-28vid-boyland-update-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7181e3be-8a61-518e-abd4-ef021186689a",
+      "url": "https://www.nytimes.com/2021/01/31/nyregion/rochester-police-pepper-spray-child.html",
+      "id": 100000007580391,
+      "asset_id": 100000007580391,
+      "source": "New York Times",
+      "published_date": "2021-01-31",
+      "updated": "2021-02-01 19:24:12",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Police;Video Recordings, Downloads and Streaming;Prude, Daniel (d 2020);Warren, Lovely A;Police Department (Rochester, NY);Rochester (NY)",
+      "column": null,
+      "byline": "By Nicole Hong",
+      "type": "Article",
+      "title": "Rochester Officers Suspended After Pepper-Spraying of 9-Year-Old Girl",
+      "abstract": "The incident, captured on body-camera footage, renewed scrutiny of a department whose officers had placed a hood on Daniel Prude, a Black man, before he died from suffocation.",
+      "des_facet": [
+        "Police",
+        "Video Recordings, Downloads and Streaming"
+      ],
+      "org_facet": [
+        "Police Department (Rochester, NY)"
+      ],
+      "per_facet": [
+        "Prude, Daniel (d 2020)",
+        "Warren, Lovely A"
+      ],
+      "geo_facet": [
+        "Rochester (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police department in Rochester, N.Y., released body-camera footage that showed a 9-year-old girl being handcuffed and pepper-sprayed by officers who responded to a family disturbance.",
+          "copyright": "Rochester Police Department",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/nyregion/31rochester/31rochester-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/nyregion/31rochester/31rochester-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/31/nyregion/31rochester/31rochester-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4bd2094c-8ac8-5176-8721-1cc6d31b9bcb",
+      "url": "https://www.nytimes.com/2021/01/29/us/leaving-qanon-conspiracy.html",
+      "id": 100000007560107,
+      "asset_id": 100000007560107,
+      "source": "New York Times",
+      "published_date": "2021-01-29",
+      "updated": "2021-01-30 11:59:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Conspiracy Theories;QAnon;Right-Wing Extremism and Alt-Right;United States Politics and Government;Trump, Donald J;United States",
+      "column": null,
+      "byline": "By Sabrina Tavernise",
+      "type": "Article",
+      "title": "‘Trump Just Used Us and Our Fear’: One Woman’s Journey Out of QAnon",
+      "abstract": "During the political fallout after four years of Donald J. Trump, one question is what will happen with the followers of conspiracy theories that bend Americans’ perceptions of reality.",
+      "des_facet": [
+        "Conspiracy Theories",
+        "QAnon",
+        "Right-Wing Extremism and Alt-Right",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“At some point I realized, ‘Oh, there’s a reason this doesn’t fit,’” Lenka Perron said. “We are being manipulated. Someone is having fun at our expense.”",
+          "copyright": "Erin Kirkland for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/26/us/26LEAVINGQ/26LEAVINGQ-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/26/us/26LEAVINGQ/26LEAVINGQ-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/26/us/26LEAVINGQ/26LEAVINGQ-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
