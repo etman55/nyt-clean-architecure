@@ -104,7 +104,25 @@ They're different tools with different strengths. Like a tank and a cannon, they
     suspend fun mostPopularArticles(@Path("period") period: Int): MostPopularArticlesResponse
 ```
 
-
+ - The coroutine builder called ```launch``` allow us to start a coroutine in background and keep working in the meantime.
+ - so async will run in background then return its promised result to parent coroutine which
+ created by launch.
+ - when we get a result, it is up to us to do handle the result.
+ - also we can use kotlin flow if we want
+ 
+ 
+ 
+ ```kotlin
+     articlesMutableLiveData.postValue(Resource.Loading())
+         launch {
+             try {
+                 serviceResponse = dataRepository.getArticles()
+                 newsMutableLiveData.postValue(serviceResponse)
+             } catch (e: Exception) {
+                 articlesMutableLiveData.postValue(Resource.DataError(NETWORK_ERROR))
+             }
+         }
+   ```
 
 
 **Keep your code clean according to MVVM**
