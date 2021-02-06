@@ -1,6 +1,6 @@
 package com.example.nytcleanarcitecture.domain.base.usecase
 
-import com.example.domain.base.coroutines.CoroutineDispatcherProvider
+import com.example.nytcleanarcitecture.domain.base.coroutines.CoroutineDispatcherProvider
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flowOn
 

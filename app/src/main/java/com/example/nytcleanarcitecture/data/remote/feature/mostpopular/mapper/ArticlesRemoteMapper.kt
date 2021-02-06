@@ -1,14 +1,14 @@
 package com.example.nytcleanarcitecture.data.remote.feature.mostpopular.mapper
 
 import com.example.nytcleanarcitecture.data.base.mapper.RemoteModelMapper
-import com.example.nytcleanarcitecture.data.remote.feature.mostpopular.model.ArticelsResponseResult
+import com.example.nytcleanarcitecture.data.remote.feature.mostpopular.model.ArticlesResponseResult
 import com.example.nytcleanarcitecture.domain.entity.Article
 import javax.inject.Inject
 
 class ArticlesRemoteMapper @Inject constructor(
     private val mapper: MediaRemoteMapper
-) : RemoteModelMapper<ArticelsResponseResult, Article> {
-    override fun mapFromModel(model: ArticelsResponseResult): Article {
+) : RemoteModelMapper<ArticlesResponseResult, Article> {
+    override fun mapFromModel(model: ArticlesResponseResult): Article {
         return with(model) {
             Article(
                 uri = uri,

@@ -1,7 +1,7 @@
 package com.example.nytcleanarcitecture.di
 
 import com.example.nytcleanarcitecture.data.repository.MostPopularArticlesRepositoryImpl
-import com.example.nytcleanarcitecture.domain.repository.MostPopularArticlesRepository
+import com.example.nytcleanarcitecture.domain.fake.MostPopularArticlesRepository
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

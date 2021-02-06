@@ -1,4 +1,4 @@
-package com.example.domain.base.exception
+package com.example.nytcleanarcitecture.domain.base.exception
 
 import kotlin.contracts.ExperimentalContracts
 import kotlin.contracts.contract

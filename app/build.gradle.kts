@@ -82,10 +82,17 @@ dependencies {
     testImplementation(Test.mokitoKotlin)
     testImplementation(Test.mockWebServer)
     testImplementation(Test.coroutiensTest)
+    testImplementation(Test.mock)
+    testImplementation(Test.core)
     androidTestImplementation(Test.rules)
+    androidTestImplementation(Test.core)
     androidTestImplementation(Test.runner)
     androidTestImplementation(Test.fragmentTesting)
+    androidTestImplementation(Test.espressoIntents)
     androidTestImplementation(Test.espresso)
+    androidTestImplementation(Test.espressoContrib)
+    androidTestImplementation(Test.espressoIdlRes)
     androidTestImplementation(Test.testExt)
+    kaptAndroidTest(DI.AnnotationProcessor.daggerHiltGoogle)
 
 }

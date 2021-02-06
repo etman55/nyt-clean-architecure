@@ -1,11 +1,11 @@
-package com.example.nytcleanarcitecture.domain.repository
+package com.example.nytcleanarcitecture.domain.fake
 
 import com.example.nytcleanarcitecture.domain.data.DummyData
 import com.example.nytcleanarcitecture.domain.entity.Article
+import java.net.SocketTimeoutException
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOf
-import java.net.SocketTimeoutException
 
 internal class FakeMostPopularArticlesRepository : MostPopularArticlesRepository {
 
@@ -32,7 +32,6 @@ internal class FakeMostPopularArticlesRepository : MostPopularArticlesRepository
             ResponseType.ERROR -> flow { throw SocketTimeoutException(ERROR_MSG) }
         }
     }
-
 }
 
 internal enum class ResponseType {

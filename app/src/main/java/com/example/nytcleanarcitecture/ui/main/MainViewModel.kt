@@ -1,14 +1,15 @@
 package com.example.nytcleanarcitecture.ui.main
 
+import androidx.annotation.VisibleForTesting
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.viewModelScope
-import com.example.domain.feature.MostPopularArticlesUseCase
 import com.example.nytcleanarcitecture.base.BaseViewModel
 import com.example.nytcleanarcitecture.base.Resource
 import com.example.nytcleanarcitecture.base.extension.mutable
 import com.example.nytcleanarcitecture.domain.entity.Article
 import com.example.nytcleanarcitecture.domain.feature.ArticleByIdUseCase
+import com.example.nytcleanarcitecture.domain.feature.MostPopularArticlesUseCase
 import com.example.nytcleanarcitecture.utils.errorMessage
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.collect
@@ -20,9 +21,12 @@ class MainViewModel @ViewModelInject constructor(
     private val articlesUseCase: MostPopularArticlesUseCase,
     private val articleByIdUseCase: ArticleByIdUseCase
 ) : BaseViewModel<MainNavigation>() {
+
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
     private val _articles = mutable<Resource<List<Article>>>()
     val articles: LiveData<Resource<List<Article>>> get() = _articles
 
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
     private val _article = mutable<Resource<Article>>()
     val article: LiveData<Resource<Article>> = _article
 

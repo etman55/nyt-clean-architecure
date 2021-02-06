@@ -1,4 +1,4 @@
-package com.example.domain.base.coroutines
+package com.example.nytcleanarcitecture.domain.base.coroutines
 
 import kotlinx.coroutines.CoroutineDispatcher
 
@@ -8,19 +8,8 @@ import kotlinx.coroutines.CoroutineDispatcher
  * on different threads, but they don't need to know about the underlying implementation.
  * A single-threaded version for example can be injected for testing.
  */
-interface CoroutineDispatcherProvider {
-    /**
-     * Dispatcher for IO-bound work
-     */
+open class CoroutineDispatcherProvider(
+    val ui: CoroutineDispatcher,
+    val computation: CoroutineDispatcher,
     val io: CoroutineDispatcher
-
-    /**
-     * Dispatcher for computational work
-     */
-    val computation: CoroutineDispatcher
-
-    /**
-     * Dispatcher for UI work
-     */
-    val ui: CoroutineDispatcher
-}
+)

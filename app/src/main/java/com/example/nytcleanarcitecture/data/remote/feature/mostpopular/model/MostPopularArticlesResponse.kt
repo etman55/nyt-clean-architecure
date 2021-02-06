@@ -7,10 +7,10 @@ data class MostPopularArticlesResponse(
     val copyright: String,
     @SerializedName("num_results")
     val numResults: Int,
-    val results: List<ArticelsResponseResult>
+    val results: List<ArticlesResponseResult>
 )
 
-data class ArticelsResponseResult(
+data class ArticlesResponseResult(
     val uri: String,
     val url: String,
     val id: Long,

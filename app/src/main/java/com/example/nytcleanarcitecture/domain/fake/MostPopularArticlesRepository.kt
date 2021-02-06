@@ -1,4 +1,4 @@
-package com.example.nytcleanarcitecture.domain.repository
+package com.example.nytcleanarcitecture.domain.fake
 
 import com.example.nytcleanarcitecture.domain.entity.Article
 import kotlinx.coroutines.flow.Flow

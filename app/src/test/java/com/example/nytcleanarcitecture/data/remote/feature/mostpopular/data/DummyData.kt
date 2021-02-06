@@ -1,4 +1,4 @@
-package com.example.nytcleanarcitecture.util
+package com.example.nytcleanarcitecture.data.remote.feature.mostpopular.data
 
 import com.example.nytcleanarcitecture.data.remote.feature.mostpopular.model.ArticlesResponseResult
 import com.example.nytcleanarcitecture.data.remote.feature.mostpopular.model.MediaMetadataResponse
@@ -47,5 +47,4 @@ object DummyData {
             media = listOf(mediaResponse),
             etaId = 123456
         )
-
 }

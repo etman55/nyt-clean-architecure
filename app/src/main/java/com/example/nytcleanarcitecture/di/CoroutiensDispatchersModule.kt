@@ -1,16 +1,21 @@
 package com.example.nytcleanarcitecture.di
 
-import com.example.domain.base.coroutines.CoroutineDispatcherProvider
-import com.example.domain.base.coroutines.CoroutineDispatcherProviderImpl
-import dagger.Binds
+import com.example.nytcleanarcitecture.domain.base.coroutines.CoroutineDispatcherProvider
 import dagger.Module
+import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.android.components.ApplicationComponent
 import javax.inject.Singleton
+import kotlinx.coroutines.Dispatchers
 
 @InstallIn(ApplicationComponent::class)
 @Module
-interface CoroutiensDispatchersModule {
-    @get:[Binds Singleton]
-    val CoroutineDispatcherProviderImpl.coroutineDispatcherProvider: CoroutineDispatcherProvider
+class CoroutiensDispatchersModule {
+
+    @[Provides Singleton]
+    fun provideCoroutiensDispatcher() = CoroutineDispatcherProvider(
+        Dispatchers.Main,
+        Dispatchers.Default,
+        Dispatchers.IO
+    )
 }

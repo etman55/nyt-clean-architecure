@@ -213,6 +213,7 @@ object Dependencies {
     object Test {
         object Version {
             const val junit = "4.13"
+            const val junitExt = "1.1.3-alpha03"
             const val assertJ = "3.15.0"
             const val runner = "1.1.0"
             const val rules = "1.3.0"
@@ -223,17 +224,25 @@ object Dependencies {
             const val mockWebServer = "4.7.2"
             const val mockito = "2.2.0"
             const val hilt = "2.28-alpha"
+            const val core = "2.1.0"
+            const val mock = "1.10.5"
         }
 
+        const val junitExt = "androidx.test.ext:junit-ktx:${Version.junitExt}"
+        const val core = "androidx.arch.core:core-testing:${Version.core}"
         const val junit = "junit:junit:${Version.junit}"
         const val hiltTest = "com.google.dagger:hilt-android-testing:${Version.hilt}"
         const val runner = "androidx.test:runner:${Version.runner}"
         const val fragmentTesting = "androidx.fragment:fragment-testing:${Version.fragment}"
         const val testExt = "androidx.test.ext:junit:${Version.testExt}"
         const val espresso = "androidx.test.espresso:espresso-core:${Version.espresso}"
+        const val espressoContrib = "androidx.test.espresso:espresso-contrib:${Version.espresso}"
+        const val espressoIdlRes = "androidx.test.espresso:espresso-idling-resource:${Version.espresso}"
+        const val espressoIntents = "androidx.test.espresso:espresso-intents:${Version.espresso}"
         const val rules = "androidx.test:rules:${Version.rules}"
         const val truth = "com.google.truth:truth:${Version.truth}"
         const val mokitoKotlin = "com.nhaarman.mockitokotlin2:mockito-kotlin:${Version.mockito}"
+        const val mock = "io.mockk:mockk:${Version.mock}"
         const val assertJ = "org.assertj:assertj-core:${Version.assertJ}"
         const val mockWebServer =
             "com.squareup.okhttp3:mockwebserver:${Version.mockWebServer}"

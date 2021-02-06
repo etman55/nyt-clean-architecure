@@ -1,9 +1,9 @@
-package com.example.domain.feature
+package com.example.nytcleanarcitecture.domain.feature
 
-import com.example.domain.base.coroutines.CoroutineDispatcherProvider
+import com.example.nytcleanarcitecture.domain.base.coroutines.CoroutineDispatcherProvider
 import com.example.nytcleanarcitecture.domain.base.usecase.FlowInteractor
 import com.example.nytcleanarcitecture.domain.entity.Article
-import com.example.nytcleanarcitecture.domain.repository.MostPopularArticlesRepository
+import com.example.nytcleanarcitecture.domain.fake.MostPopularArticlesRepository
 import javax.inject.Inject
 import kotlinx.coroutines.flow.Flow
 

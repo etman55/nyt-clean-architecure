@@ -3,7 +3,7 @@ package com.example.nytcleanarcitecture.data.repository
 import com.example.nytcleanarcitecture.data.feature.MostPopularArticlesRemoteDataSource
 import com.example.nytcleanarcitecture.data.remote.feature.mostpopular.mapper.ArticlesRemoteMapper
 import com.example.nytcleanarcitecture.domain.entity.Article
-import com.example.nytcleanarcitecture.domain.repository.MostPopularArticlesRepository
+import com.example.nytcleanarcitecture.domain.fake.MostPopularArticlesRepository
 import javax.inject.Inject
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
