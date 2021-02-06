@@ -7,6 +7,10 @@ Clean-Architecture by uncle pop (Robert Cecil Martin)  this project is adoption 
 
 ![clean-arch-digram](https://raw.githubusercontent.com/etman55/nyt-clean-architecure/main/readme-images/clean-arch-digram.jpg)
 
+
+**Dependencies direction in Clean Architecture :**
+
+![dependencies-direction](https://raw.githubusercontent.com/etman55/nyt-clean-architecure/main/readme-images/dependencies-direction.png)
 Model-View-ViewModel (ie MVVM) is a template of a client application architecture, proposed by John Gossman as an alternative to MVC and MVP patterns when using Data Binding technology. Its concept is to separate data presentation logic from business logic by moving it into particular class for a clear distinction.
 
 **How to build the project:**
@@ -120,7 +124,7 @@ They're different tools with different strengths. Like a tank and a cannon, they
          launch {
              try {
                  serviceResponse = dataRepository.getArticles()
-                 newsMutableLiveData.postValue(serviceResponse)
+                 articlesMutableLiveData.postValue(serviceResponse)
              } catch (e: Exception) {
                  articlesMutableLiveData.postValue(Resource.DataError(NETWORK_ERROR))
              }
