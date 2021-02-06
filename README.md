@@ -19,7 +19,12 @@ baseUrl="NYT-BASE-API-URL"
 apiKey="YOU-GENERATED-API-KEY"
 ```
 
+- you will need to append this line in your gradle.properties files as this project depends on view binding feature
 
+
+```kotlin
+android.defaults.buildfeatures.viewbinding=true
+```
 
 **Why Promoting MVVM VS MVP:**
 - ViewModel has Built in LifeCycleOwerness, on the other hand Presenter not, and you have to take this responsiblty in your side.
