@@ -10,7 +10,7 @@ You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Archite
 - You'll be using the most viewed section of this API.
   Note: you need to sign up for an API key at: https://developer.nytimes.com/get-started,
   then replace the ‘sample-key’ below with the API key assigned to your account.
-- in you own gradle.properties file add these fields
+- in your gradle.properties file add these fields
 
 
 
