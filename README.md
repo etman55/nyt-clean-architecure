@@ -5,6 +5,8 @@
 
 Clean-Architecture by uncle pop (Robert Cecil Martin)  this project is adoption for clean architecture in android
 
+![clean-arch-digram](https://raw.githubusercontent.com/etman55/nyt-clean-architecure/main/readme-images/clean-arch-digram.jpg)
+
 Model-View-ViewModel (ie MVVM) is a template of a client application architecture, proposed by John Gossman as an alternative to MVC and MVP patterns when using Data Binding technology. Its concept is to separate data presentation logic from business logic by moving it into particular class for a clear distinction.
 
 **How to build the project:**
